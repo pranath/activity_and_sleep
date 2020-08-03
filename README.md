@@ -48,4 +48,4 @@ I found the model acheived a MAPE error in it's forcasts of between 17-22% for p
 **Sleep: Forcast components for overall trend, weekly & monthly seasonality**
 ![sleep forcast components](img/sleep_forcast2.png)
 
-The Prophet library itself was very easy and quick to use with its default setup, especially in terms of building a model, evaluating the model, and displaying the results of both of these key processes in a way that was easy and intuitive to understand. The further configuration options are something that could be explored further to enable more fine tuning of the model and to customise it to a specific use-case.
+The Prophet library itself was very easy and quick to use with its default setup, especially in terms of building a model, evaluating the model, and displaying the results of both of these key processes in a way that was easy and intuitive to understand. The configuration options are something that could be explored much more to enable fine tuning of the model and to customise it to a specific use-case.
