@@ -22,7 +22,7 @@ I use [Facebook Prophet](https://facebook.github.io/prophet/) to do the analysis
 
 ### Steps
 
-I found that the model performed very poorly on validation of its forcasts (i.e. a rmse of 3000+). With that caveat, there were some hints of the following:
+I found that the model performed very poorly on validation of its forcasts (i.e. a rmse of 3000+). This is perhaps in large part, to the step data being highly variable and lacking much structure or pattern of any sort. With that caveat, there were some hints of the following:
 
 - That my steps have been decreasingly slightly from 2013-2017 and then increasing from 2018 onwards
 - Saturdays seem to be my best day and Wednesday is my worst day for steps
